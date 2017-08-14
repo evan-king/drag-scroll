@@ -12,11 +12,16 @@ The following license applies to all code files:
  * for the specific language governing rights and limitations under the
  * License.
  *
- * The Original Code is the "Grab and Drag" extension for Firefox.
+ * The Forked Code is the "Drag Scroll" extension for Firefox.
+ * The Original Code is forked from "Grab and Drag" by Ian Weiner.
  * Some code derived from "All-in-One Gestures" by Marc Boullet.
  * Some code derived from "SmoothWheel" by Avi Halachmi.
  * Some code derived from "TkishDemos" by M. D. Nauta.
  *
+ * The Maintainer of the Forked Code is Evan King.
+ * Portions created by the Maintainer are Copyright (C) 2017
+ * the Maintainer. All Rights Reserved.
+ 
  * The Initial Developer of the Original Code is Ian Weiner.
  * Portions created by the Initial Developer are Copyright (C) 2005
  * the Initial Developer. All Rights Reserved.

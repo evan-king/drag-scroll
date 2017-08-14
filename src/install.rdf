@@ -1,32 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <rdf:Description rdf:about="urn:mozilla:install-manifest">
-    <em:id>{477c4c36-24eb-11da-94d4-00e08161165f}</em:id>
+    <em:id>dragscroll@honoredsoft.com</em:id>
     <em:type>2</em:type>
-    <em:version>3.2.9.9.1</em:version>
+    <em:version>1.0.0</em:version>
 
     <!-- Firefox -->
     <em:targetApplication>
       <rdf:Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-        <em:minVersion>6.0</em:minVersion>
-        <em:maxVersion>50.*</em:maxVersion>
+        <em:minVersion>14.0</em:minVersion>
+        <em:maxVersion>56.*</em:maxVersion>
       </rdf:Description>
     </em:targetApplication>
+
+    <!-- Pale Moon -->
+    <em:targetApplication>
+      <rdf:Description>
+        <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+        <em:minVersion>25.0</em:minVersion>
+        <em:maxVersion>27.*</em:maxVersion>
+      </rdf:Description>
+    </em:targetApplication>
+    
     <em:multiprocessCompatible>false</em:multiprocessCompatible>
 	
-    <em:name>Grab and Drag</em:name>
-    <em:description>Enables Adobe Acrobat-style grab and drag scrolling.</em:description>
-    <em:creator>Ian Weiner</em:creator>
+    <em:name>Drag Scroll</em:name>
+    <em:description>Enables drag-style scrolling without scrollbar or touch device.</em:description>
+    <em:creator>Evan King</em:creator>
+    <em:contributor>Ian Weiner (Grab and Drag)</em:contributor>
     <em:contributor>Marc Boullet (Scrollbar Anywhere)</em:contributor>
     <em:contributor>Gregory Jordan</em:contributor>
     <em:contributor>Len Rodman</em:contributor>
     <em:contributor>Payton Chou</em:contributor>
     <em:translator>Babelzilla</em:translator>
     
-    <em:homepageURL>https://addons.mozilla.org/en-US/firefox/addon/grab-and-drag/</em:homepageURL>
-    <em:optionsURL>chrome://grabanddrag/content/gadPrefs.xul</em:optionsURL>
-    <em:iconURL>chrome://grabanddrag/skin/grabanddrag48.png</em:iconURL>	
-    <em:icon64URL>chrome://grabanddrag/skin/grabanddrag64.png</em:icon64URL>	
+    <em:homepageURL>https://dragscroll.honoredsoft.com</em:homepageURL>
+    <em:optionsURL>chrome://dragscroll/content/dsPrefs.xul</em:optionsURL>
+    <em:iconURL>chrome://dragscroll/skin/dragscroll48.png</em:iconURL>	
+    <em:icon64URL>chrome://dragscroll/skin/dragscroll64.png</em:icon64URL>	
   </rdf:Description>
 </rdf:RDF>

@@ -1,0 +1,34 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#dragscroll-button {
+  -moz-image-region: rect(24px 24px 48px 0px);
+  list-style-image: url(chrome://dragscroll/skin/dragscrolltb.png);
+}
+#dragscroll-button[dsOn="false"] {
+  -moz-image-region: rect(0px 48px 24px 24px);
+}
+#dragscroll-button[dsOn="true"] {
+  -moz-image-region: rect(0px 72px 24px 48px);
+}
+#dragscroll-button[dsOn="QT"] {
+  -moz-image-region: rect(0px 96px 24px 72px);
+}
+#dragscroll-button[dsOn="BL"] {
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+toolbar[iconsize="small"] > #dragscroll-button {
+  -moz-image-region: rect(18px 18px 18px 0px);
+  list-style-image: url(chrome://dragscroll/skin/dragscrolltbsmall18.png);
+}
+toolbar[iconsize="small"] > #dragscroll-button[dsOn="false"]  {
+  -moz-image-region: rect(0px 36px 18px 18px);
+}
+toolbar[iconsize="small"] > #dragscroll-button[dsOn="true"] {
+  -moz-image-region: rect(0px 54px 18px 36px);
+}
+toolbar[iconsize="small"] > #dragscroll-button[dsOn="QT"] {
+  -moz-image-region: rect(0px 72px 18px 54px);
+}
+toolbar[iconsize="small"] > #dragscroll-button[dsOn="BL"] {
+  -moz-image-region: rect(0px 18px 18px 0px);
+}

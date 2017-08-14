@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://dragscroll/locale/dragscroll.dtd">
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?> 
+<?xml-stylesheet href="chrome://dragscroll/skin/" type="text/css"?>
+
+<overlay id="dragscroll"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script type="application/x-javascript" src="dragscroll.js"/>
+
+	<stringbundleset id="stringbundleset">
+		<stringbundle id="bundle_ds" src="chrome://dragscroll/locale/dragscroll.properties" preftitle='&options.title;' />
+	</stringbundleset>
+	
+	<menupopup id="menu_ToolsPopup">
+		<menuitem id="ds-options" oncommand="dragscrollExtension.dsShowOptions(false);"
+					class="menuitem-iconic" image="chrome://dragscroll/skin/dragscrollsmall.png"
+					label="&options.title;" hidden="false" insertbefore="devToolsSeparator"/>
+	</menupopup>
+
+	<menupopup id="taskPopup">
+		<menuitem id="ds-toggle-option" oncommand="dragscrollExtension.dsShowOptions(false);"
+					class="menuitem-iconic" image="chrome://dragscroll/skin/dragscrollsmall.png"
+					label="&options.title;" hidden="false" insertbefore="devToolsSeparator"/>
+	</menupopup>
+
+	
+	<toolbarpalette id="BrowserToolbarPalette">
+		<toolbarbutton  class="toolbarbutton-1 chromeclass-toolbar-additional"		
+						id="dragscroll-button"
+						label="&dragscroll.label;"
+						oncommand="dragscrollExtension.dsToggle();"
+						tooltiptext="&dragscroll.tooltip;"	/>
+	</toolbarpalette>
+
+</overlay>
