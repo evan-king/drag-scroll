@@ -1,0 +1,979 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxDVBduAaVRT5rddXpa9ig==
+SHA1-Digest: aOloHp5F2/N6ojKdbPvz0JQresY=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8EajzIQ2Mf6WrHeS+/oxQ==
+SHA1-Digest: 3jjBeU+uZLum9L5dKVhQBgjSeGI=
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMIzbEJelMLEV/5GKDVylw==
+SHA1-Digest: bTII7owCO5uvRo0M/tMbCjHq/BA=
+
+Name: icon64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WtlmcdXJr9T/H7c1XnOENA==
+SHA1-Digest: zpvRPFITAT1mVyezVVhRqXV01as=
+
+Name: __MACOSX/._chrome
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._defaults
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._icon64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/._license.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/._.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eAk3FmiT5GbQ1mp9Y5hNdQ==
+SHA1-Digest: 2OfeunMhAseojLPWwOnMhP6MZqM=
+
+Name: __MACOSX/chrome/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/._.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eAk3FmiT5GbQ1mp9Y5hNdQ==
+SHA1-Digest: 2OfeunMhAseojLPWwOnMhP6MZqM=
+
+Name: __MACOSX/chrome/grabanddrag/._content
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/._locale
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/._skin
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._gadBL.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._gadIntro.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._gadPrefs.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._gadScale.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._gadScale_old.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._grabanddrag.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/content/grabanddrag/._grabanddrag.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._cs-CZ
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._da-DK
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._de
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._en-US
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._es-ES
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._fi-FI
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._fr
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._it
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._ja-JP
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._ko-KR
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._nl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._pl-PL
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._ru-RU
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._sv-SE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._tr-TR
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._zh-CN
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/._zh-TW
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/cs-CZ/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/cs-CZ/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/cs-CZ/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/da-DK/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/da-DK/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/da-DK/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/de/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/de/grabanddrag/._grabanddrag.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/de/grabanddrag/._grabanddrag.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/en-US/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/en-US/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/en-US/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/es-ES/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/es-ES/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/es-ES/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fi-FI/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fi-FI/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fi-FI/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fr/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fr/grabanddrag/._grabanddrag.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/fr/grabanddrag/._grabanddrag.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/it/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/it/grabanddrag/._grabanddrag.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/it/grabanddrag/._grabanddrag.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ja-JP/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ja-JP/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ja-JP/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ko-KR/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ko-KR/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ko-KR/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/nl/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/nl/grabanddrag/._grabanddrag.dt
+ d
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/nl/grabanddrag/._grabanddrag.pr
+ operties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/pl-PL/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/pl-PL/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/pl-PL/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ru-RU/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ru-RU/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/ru-RU/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/sv-SE/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/sv-SE/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/sv-SE/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/tr-TR/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/tr-TR/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/tr-TR/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-CN/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-CN/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-CN/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-TW/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-TW/grabanddrag/._grabanddrag
+ .dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/locale/zh-TW/grabanddrag/._grabanddrag
+ .properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/._classic
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/._grabanddrag
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/._prefscale-3.0
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._biggrab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._biggrabbing
+ .png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._gadPrefs.cs
+ s
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._gadPrefs_ol
+ d.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabAndDrag
+ -mac.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabAndDrag
+ -unix.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabAndDrag
+ -win.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ 32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ 48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ 64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ tb.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ tbsmall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabanddrag
+ tbsmall18.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabbing.pn
+ g
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabbingC.p
+ ng
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._grabC.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/grabanddrag/._invisible.p
+ ng
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/chrome/grabanddrag/skin/classic/prefscale-3.0/._gadScale_
+ xbl.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/defaults/._.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eAk3FmiT5GbQ1mp9Y5hNdQ==
+SHA1-Digest: 2OfeunMhAseojLPWwOnMhP6MZqM=
+
+Name: __MACOSX/defaults/._preferences
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: __MACOSX/defaults/preferences/._gadDefaults.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sm1CIthGP7gpTEv5RZDSYQ==
+SHA1-Digest: 2ky+OG1LmWVpGqknh6GiqLqqLn0=
+
+Name: chrome/.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OTpzIJeGNyS0PZshwvmSRQ==
+SHA1-Digest: qKDjp7aCRBsWIPROYj9WHrZ51SI=
+
+Name: chrome/grabanddrag/.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N3zU6SDwpvE2rplJ/TfdmA==
+SHA1-Digest: shqRI8YbAEH2RsiiDIMBz/ErsPo=
+
+Name: chrome/grabanddrag/content/grabanddrag/gadBL.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ayLIfF8/J3NuiJMlyUCOCQ==
+SHA1-Digest: txwoKLUv/D3Q6ZRPm9FuT/1UyDE=
+
+Name: chrome/grabanddrag/content/grabanddrag/gadIntro.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kUaBA2q7VTuJ8c1HTki+Yg==
+SHA1-Digest: KZMUohcc9QOXwn7J0XD7YO0CDGA=
+
+Name: chrome/grabanddrag/content/grabanddrag/gadPrefs.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GA8vqvZccswTHDCOWTO+eA==
+SHA1-Digest: 5cohrDdWdo5crYTsbetFSnDcTxc=
+
+Name: chrome/grabanddrag/content/grabanddrag/gadScale.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TpOdRye49ejrLFH2G2y2iA==
+SHA1-Digest: Oenn6v5O+clEX5wgFGtlYer+564=
+
+Name: chrome/grabanddrag/content/grabanddrag/gadScale_old.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6pk5mkiZ4FX78fK39dOTRA==
+SHA1-Digest: kRfle0iLRBuUR9JW7ZgV7VELOTs=
+
+Name: chrome/grabanddrag/content/grabanddrag/grabanddrag.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b1Ny9M+30Wa0MKBran218A==
+SHA1-Digest: ntDz/Speww2l4KgiJ8Umx0ETP8w=
+
+Name: chrome/grabanddrag/content/grabanddrag/grabanddrag.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z1WPjPyixV2lnSi64dWW7Q==
+SHA1-Digest: j3SM/AVXZDKkBJfBntVjxGrMrG0=
+
+Name: chrome/grabanddrag/locale/cs-CZ/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fCItXulrp1K1M4TpfnwZ3g==
+SHA1-Digest: kJJCtKdF/5tLBCo2neD/qaJRQ7Y=
+
+Name: chrome/grabanddrag/locale/cs-CZ/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZT8L0wk1MIL6En+VwdJW8A==
+SHA1-Digest: c+n9VBM6aGbG0M+HLndkM3fnsrw=
+
+Name: chrome/grabanddrag/locale/da-DK/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4RVyOTCT6FYuCinQB5wMxA==
+SHA1-Digest: PYnDoe57riiXBaWgBztLsDFXers=
+
+Name: chrome/grabanddrag/locale/da-DK/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VBQyTTcbxvvIJ4sSmIiY7g==
+SHA1-Digest: sz4ecgADHuMyYcrvuhLzgAQklqE=
+
+Name: chrome/grabanddrag/locale/de/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zNlIULEetJD/C1EqDKM/qw==
+SHA1-Digest: B74Te0PPg5gYJK2J9MkeORZnqt4=
+
+Name: chrome/grabanddrag/locale/de/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hwLjXnMcfvM43GEU+ejsTQ==
+SHA1-Digest: CzDdGS1ZhwnBHITQ0zD/d8qI4Qc=
+
+Name: chrome/grabanddrag/locale/en-US/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 494pn6wE5Y/M5neG1WdoEQ==
+SHA1-Digest: aPEBkFJH6OAPj2jCU8lo5GGLAyM=
+
+Name: chrome/grabanddrag/locale/en-US/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aRSwmIgSQygKyOvTkoYSCw==
+SHA1-Digest: DWZaLur2gqerZSBN7s6yTXoqbLY=
+
+Name: chrome/grabanddrag/locale/es-ES/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0T+NhRYBV+iSSOMR5h/eYQ==
+SHA1-Digest: lWPk2NTbTYlcZEC+qfWiVTPeDKM=
+
+Name: chrome/grabanddrag/locale/es-ES/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IcDdx5TDTgfAoSK4YuHKng==
+SHA1-Digest: 63U9YenRtubJ49lYbGwJsE58J7s=
+
+Name: chrome/grabanddrag/locale/fi-FI/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cIyB0x06WNmCOVHlfo4I/g==
+SHA1-Digest: EeqlxSOgvLDFtr2UqQ5M9XRp1T0=
+
+Name: chrome/grabanddrag/locale/fi-FI/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AKJ6zozZrqER7FcCb5n8Og==
+SHA1-Digest: ktam2rwnYXGxfGEoktcayOg9d1s=
+
+Name: chrome/grabanddrag/locale/fr/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wKgucHMzuVG6qbn11rsK5g==
+SHA1-Digest: q/vror5o1y4rFC/KNunSgIXoyOQ=
+
+Name: chrome/grabanddrag/locale/fr/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ik0ASfbeQvKatfywKFWa+w==
+SHA1-Digest: 8IBzJJEI92z9rteIvm9g9hL5N38=
+
+Name: chrome/grabanddrag/locale/it/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cbaarmlIogEUdgw+G/38Pg==
+SHA1-Digest: W8qChV7O9tT2OE+4hFNdoGv7GMY=
+
+Name: chrome/grabanddrag/locale/it/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Od5+UxV3hezPOUpyF7uRZw==
+SHA1-Digest: 7ugn+hKmJ5vkMmV5DgcGul20GhA=
+
+Name: chrome/grabanddrag/locale/ja-JP/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TE6VHPVHTBoRhWdznIjINQ==
+SHA1-Digest: HUYcUYEzrb7reoGw+VHYARsH3FI=
+
+Name: chrome/grabanddrag/locale/ja-JP/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WF1l0rqvUv/vw5uiNICWyQ==
+SHA1-Digest: TaHZNh9srbyu8UlCSdaAJU2/KgA=
+
+Name: chrome/grabanddrag/locale/ko-KR/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j7KQgNFqg/2nmxJ62X7NcA==
+SHA1-Digest: 97vlUZtC6c1LucF+DkAKHHP1RE0=
+
+Name: chrome/grabanddrag/locale/ko-KR/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cXDffOrtMip53KjKyxGW2w==
+SHA1-Digest: gS+P/il3fR2ohwhWSs3zWizJ6RQ=
+
+Name: chrome/grabanddrag/locale/nl/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pL82wvoszQyBWKLQySqyJg==
+SHA1-Digest: h1yqKtK1J6JQdn4B1m4E1o5COzo=
+
+Name: chrome/grabanddrag/locale/nl/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IYSZJgI7h3Ht0sWYJRiy5g==
+SHA1-Digest: FGMIl4oCf7te4eRcmhDNRUQv2RY=
+
+Name: chrome/grabanddrag/locale/pl-PL/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 04pTqySAzcAjE4LPi+78jA==
+SHA1-Digest: 5QMnvJUAyBmg6yqeIWmUjDPMEI8=
+
+Name: chrome/grabanddrag/locale/pl-PL/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0SDUxYuxFiqphVOGIE7UHQ==
+SHA1-Digest: VS0Td0eaI5u1KZWVTLiEoPYDzhA=
+
+Name: chrome/grabanddrag/locale/ru-RU/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BVqIxZdhcLkZO1ExVELcjw==
+SHA1-Digest: ty8IZbPnUjU0pkl2RfKCyZOWkLI=
+
+Name: chrome/grabanddrag/locale/ru-RU/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r3iaHasbcdLAFL8NUQgQtQ==
+SHA1-Digest: DUoIrFqSddQrmTcZQyA+i0Z5QcY=
+
+Name: chrome/grabanddrag/locale/sv-SE/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JXssWccXiki5khOG1RDYEg==
+SHA1-Digest: 7ISYhZksBEKs1b+k80+S07h4aMU=
+
+Name: chrome/grabanddrag/locale/sv-SE/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1cikl4JvHrbHjQ+44CiYRw==
+SHA1-Digest: +SVhCDU8DCn3q3KVD5UESctSPFU=
+
+Name: chrome/grabanddrag/locale/tr-TR/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rljYGCM7umVEAiL9FEWG1Q==
+SHA1-Digest: RR0/s+mviCXPh+HqX/tCYu5V5H0=
+
+Name: chrome/grabanddrag/locale/tr-TR/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rOCD7HGLa7rWEQI9oqLxhA==
+SHA1-Digest: 2tfCEKHvOq/7yiTTRFxMotrPWBI=
+
+Name: chrome/grabanddrag/locale/zh-CN/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hc6JYK3ryxSKfBpqSMFluA==
+SHA1-Digest: 6RbPZID8lqlS4bxm6ou8vWnNlYg=
+
+Name: chrome/grabanddrag/locale/zh-CN/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IK2w9vgqED89Hnpx62wReQ==
+SHA1-Digest: yTSxJvpfys9LcgMIKavfZQaKiTI=
+
+Name: chrome/grabanddrag/locale/zh-TW/grabanddrag/grabanddrag.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1s76Z2Tdd+/DXRr9dXPUxw==
+SHA1-Digest: U3DJaCoHEE7PE2JHa73J74Qy3Nk=
+
+Name: chrome/grabanddrag/locale/zh-TW/grabanddrag/grabanddrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bSC6IMcPKkhymRHqCKxXuw==
+SHA1-Digest: HsFPxUUpt0mFuJgn9YxNmxHv2Us=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/biggrab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0+ms6FpBxF9Yz+Kyn020vA==
+SHA1-Digest: et3ayHOe4INtdYe2YaEyd46oBGY=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/biggrabbing.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3H7vyisxndBBNSqpCFnSWA==
+SHA1-Digest: WFFWTywxbfUKN45HefqpRLdJHco=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/gadPrefs.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jxaBt1HN90M05vJ+/LXCXA==
+SHA1-Digest: S4rqdeTSoHoKlTLQHv6LbZMo7aI=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/gadPrefs_old.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8pOpMDw7hBYK6fCC53m+bw==
+SHA1-Digest: RJhl4AtSXtoBD0YWTXSOo3LxKno=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j399v1VvYUEo4lNACjusgw==
+SHA1-Digest: C27NfTp6ZxZ/B9EqSdxYV0T0xts=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabAndDrag-mac.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A8hsL/tcGonzCm8F+CozDA==
+SHA1-Digest: osPAeexmWSoj3NVFtZhHD9i/9P4=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabAndDrag-unix.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z0oCz2UWVm1MH7BHuH8bdg==
+SHA1-Digest: Ce5W1h9lTVHBV+g6lXFljmC8CFQ=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabAndDrag-win.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A8hsL/tcGonzCm8F+CozDA==
+SHA1-Digest: osPAeexmWSoj3NVFtZhHD9i/9P4=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddrag32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2PemxemAuGVGeuP6RRQ2EQ==
+SHA1-Digest: 87069x+4MwS0oIaR7HkE1uHVFhk=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddrag48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMIzbEJelMLEV/5GKDVylw==
+SHA1-Digest: bTII7owCO5uvRo0M/tMbCjHq/BA=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddrag64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WtlmcdXJr9T/H7c1XnOENA==
+SHA1-Digest: zpvRPFITAT1mVyezVVhRqXV01as=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddragsmall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g83834I9syGYUMFB4E9dYw==
+SHA1-Digest: a8LTKcxt5/PcRGmvvHaTMGZKlSg=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddragtb.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a4YwTfSrf6SQWV6wZWWL5g==
+SHA1-Digest: cola8Ui+WgNNEIh/cHYuftxfunc=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddragtbsmall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A4wtjomiLPDhJVQsufAiTQ==
+SHA1-Digest: WYKU5WFGvWto5jrlMttL5NU2efY=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabanddragtbsmall18.p
+ ng
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b7Iq8T5zncXkO4qdAsdsLA==
+SHA1-Digest: 3w8VnKcsByGXigrUm1K/Hpa1MFw=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabbing.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZOpPzdOkFF2UvWNTMS68RA==
+SHA1-Digest: Xj653Vi/rLAbtpUu0fawArrW0KM=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabbingC.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N5kLHDVoEC79YEtP5XxZ/A==
+SHA1-Digest: RDcAcAEY3YskN7RrDp/UXx0pmbU=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/grabC.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: llCaFYP3u+GGgo4qLTI2/A==
+SHA1-Digest: LujrLS+AuAE2KQ3TYmFZZ/QUhCs=
+
+Name: chrome/grabanddrag/skin/classic/grabanddrag/invisible.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sRuAwhpaxp8VHrwFT2CJug==
+SHA1-Digest: Vl6uqifM+WyBVL2CwWuQzkwcsP8=
+
+Name: chrome/grabanddrag/skin/classic/prefscale-3.0/gadScale_xbl.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D80T66ATdLejmDqrfTmB/g==
+SHA1-Digest: T3cGNfSqvyy818v7uF6gqM/ZY1M=
+
+Name: defaults/.DS_Store
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BYfjO7HGg41mfl5CN/v2GA==
+SHA1-Digest: vqEv0oc3qz6ytdVBwjKjyyDj6Fo=
+
+Name: defaults/preferences/gadDefaults.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LdZFUoY9zjAgG2Zx5DtKNQ==
+SHA1-Digest: Lu4MhB6pcP+ojAFOdDW3UjA+s28=
+
+Name: license.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0SCQSWwMYuJsUlbwY8stdg==
+SHA1-Digest: 91WZ2OPyW8fSd759hBdNFlzEnqE=
+
